@@ -6,5 +6,5 @@
     </linearGradient>
   </defs>
   <rect width="200" height="200" rx="20" fill="url(#bgAF)"/>
-  <text x="100" y="130" font-family="Georgia, serif" font-size="90" font-weight="700" text-anchor="middle" fill="white" letter-spacing="-2">AF</text>
+  <text x="100" y="120" font-family="Georgia, serif" font-size="52" font-weight="700" text-anchor="middle" fill="white" letter-spacing="3">Fund</text>
 </svg>
